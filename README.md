@@ -1,16 +1,19 @@
 # List of cheat sheets
+[http://overapi.com](http://overapi.com) - "collecting all cheatsheets"
+
 
 [github & git](https://github.com/tiimgreen/github-cheat-sheet#readme)  
 
-[JavaScript](https://github.com/wilfredinni/javascript-cheatsheet#readme)  
-
+ 
 [HTML]()  
 [CSS]()  
-[PHP]()  
-[Python]()  
+[JavaScript](https://github.com/wilfredinni/javascript-cheatsheet#readme) 
 [Bootstrap 4](https://www.creative-tim.com/cheatsheet/bootstrap4#carouselExampleIndicators)  
+[font Awesome](https://fontawesome.bootstrapcheatsheets.com/)  
+[PHP]()  
+[Python](http://overapi.com/python)  
 
-[font Awesome](https://fontawesome.bootstrapcheatsheets.com/)
+
 
 
 ### Collection of cheat sheets
@@ -21,7 +24,7 @@
 []()  
 [HTML & CSS](https://acchou.github.io/html-css-cheat-sheet/html-css-cheat-sheet.html)  
 []()  
-[]()  
+ 
 []()  
 []()  
 []()  
